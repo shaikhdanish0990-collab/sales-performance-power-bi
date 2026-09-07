@@ -132,6 +132,15 @@ The insights can support decisions related to product focus, sales strategy, cha
 
 I am currently building my career in **Data Analytics, Power BI and Business Intelligence**, with hands-on project experience in Power BI, SQL, Excel, DAX, Power Query, data modeling and data visualization.
 
+### 🤝 Let's Connect
+
+I'm always open to connecting with fellow **Data Analysts, Power BI Developers, BI Professionals, Recruiters, and Data Enthusiasts**.
+
+📌 **LinkedIn:** [https://www.linkedin.com/in/shaikh-danish-power-bi/]
+
+📧 **Email:** [danishsk0092@gmail.com]
+
+**GitHub:** [https://github.com/shaikhdanish0990-collab/Shaikh-Danish-Power-BI]
 ### 🎯 Target Roles
 
 - Data Analyst
