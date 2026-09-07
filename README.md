@@ -125,7 +125,7 @@ The insights can support decisions related to product focus, sales strategy, cha
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Dashboard.png)
+![Sales Dashboard](https://github.com/shaikhdanish0990-collab/sales-performance-power-bi/blob/main/Sales%20Dashboard.PNG)
 
 ---
 ## 👤 About Me
